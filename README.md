@@ -14,7 +14,7 @@ This is an API built using Django & DRF.
   - `Login` to Your Account.
   - `Profile View`.
   - `Change` Password.
-  - `Reset` PAssword.
+  - `Reset` Password.
   - `Send Password Reset Email` to Registered Email-Id
 
 ## Technologies Used 👨‍💻
