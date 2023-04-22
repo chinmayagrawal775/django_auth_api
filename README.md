@@ -25,3 +25,5 @@ This is an API built using Django & DRF.
 
 ## Testing of API 🧪
 You Can use any API Testing Tool to test this API, Like: PostMan, Thunderbolt, BrowserableAPI.
+
+A JSON file is included in the root directory of the project with the name `django_auth_api.postman_collection.json`. This file contains all the endpoints of the API. So You can import this file in `Postman`. And test the API Endpoints easily.
